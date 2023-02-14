@@ -9,4 +9,4 @@ The way to proceed is as follows. In the elliptic case, you can start from the s
 You can choose the the parameters "epsilon", "beta", "gamma" (respectively, diffusion, convection and reaction parameters of the equation) solution you want (in sol_esatta_bis) and then you have to make change in "grad_soluz_esatta_bis", "laplaciano_sol_esatta" and "forzante_bis". In case of constant diffusion parameter, you don't need to make change in "forzante_bis"; 
 instead, if the forcing term is not constant, you have to calculate the forcer by hand by substituting the exact solution and the parameters you want into the equation.
 
-N.B. The functions "triangolatore long", "Sample_square_Dirichlet", "int_nodes_weights" and "P2" are made by Professor Stefano Berrone (DISMA, Politecnico di Torino).
+N.B. The functions "int_nodes_weights" and "P2", and the folder "triangolatore long" are made by Professor Stefano Berrone (DISMA, Politecnico di Torino).
