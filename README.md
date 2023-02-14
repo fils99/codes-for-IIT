@@ -1,4 +1,4 @@
-# codes-for-IIt
+# codes-for-IIT
 Filippo Passerini's codes for technical interview with IIT
 
 
